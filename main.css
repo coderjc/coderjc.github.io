@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700');
+
+body {
+background: #1A1F2B;
+}
+
+header {
+	padding: 20px 15px;
+}
+
+#logo {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	background-color: #30395C;
+}
+
+#top-nav {
+	float: right;
+	display: inline-block;
+}
+
+#top-nav a{
+	display: inline-block;
+	font-family: sans-serif;
+	color: #fff;
+	text-decoration: none;
+	padding: 15px 15px;
+
+}
+
+#top-nav a:hover{
+	color: #85A5CC;
+	text-decoration: none;
+	padding: 0 15px;
+}
+
+.jumbo {
+	padding: 200px 0;
+
+}
+
+.jumbo h1{
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	color: #fff;
+	font-size: 50px;
+	font-weight: 300;
+}
+
+.box {
+	padding: 60px 100px;
+	text-align: center;
+
+}
+
+.box .work {
+	display: inline-block;
+	background: #fff;
+	width: 250px;
+	height: 250px;
+	margin: 20px;
+}
+
+
+
+
+
+
+
+
